@@ -1,6 +1,7 @@
 {
     "name": "Amendowins",
     "short_name": "Amendowins",
+    "start_url": "/",
     "display": "standalone",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
@@ -58,3 +59,4 @@
 	  	}
 		]
 }
+
